@@ -2,7 +2,7 @@
     "name": "webstorm-icons",
     "displayName": "Webstorm Icon Theme",
     "description": "Webstorm icons",
-    "version": "0.1.0",
+    "version": "0.0.2",
     "publisher": "pmsandhu",
     "engines": {
         "vscode": "*"
