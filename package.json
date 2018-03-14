@@ -11,7 +11,7 @@
         "Themes",
         "Other"
     ],
-    "icon": "./webstorm-icons.png",
+    "icon": "webstorm-icons.png",
     "keywords": [
         "icon",
         "theme",
