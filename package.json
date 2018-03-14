@@ -1,0 +1,40 @@
+{
+    "name": "webstorm-icons",
+    "displayName": "Webstorm Icon Theme",
+    "description": "Webstorm icons",
+    "version": "0.1.0",
+    "publisher": "pmsandhu",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "icon": "./webstorm-icons.png",
+    "keywords": [
+        "icon",
+        "theme",
+        "icon-theme",
+        "webstorm",
+        "icons"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "webstorm-icons",
+                "label": "Webstorm Icons",
+                "path": "./webstorm-icons.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "699b26b5-f8d9-48dc-a14f-daaab82105c2",
+        "publisherId": "7bc0646b-7ea2-4f29-b211-02e9d6b0450a",
+        "publisherDisplayName": "Patrice Sandhu"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}

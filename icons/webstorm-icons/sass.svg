@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <style type="text/css">
+    <![CDATA[
+
+   .paper {
+      fill: #9AA7B0;
+      opacity: 0.7;
+    }
+
+  .rect {
+    fill:#FF9292;
+    opacity: 0.8;
+  }
+
+  .text {
+    font-family: sans-serif;
+    font-size: 5.5px;
+    font-weight: 600;
+    fill: #231f20;
+    opacity: 0.8;
+    stroke: none;
+  }
+  ]]>
+  </style>
+  <path fill="#9AA7B0" opacity="0.7" d="M1 4 H 5 V 0 Z"/>
+  <path class="paper" d="M5 0 H 11 V 8 H 1 V 5 H 6 V 0 Z"/>
+  <rect class="rect" x="0" y="9" width="16" height="7"/>
+  <text class="text" x="0" y="15">SASS</text>
+</svg>

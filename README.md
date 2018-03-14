@@ -1,0 +1,15 @@
+# Webstorm icons
+
+##### Implements webstorm icons for vscode.
+![Alt text](https://yvkbhg.ch.files.1drv.com/y4mADGCb9l_oFpbPncdRc92QwQwjHIFPIfYg14b9ScOS7SRPBPOxBEr5U11dNeIsESOmSZEHiSr3lgSm3VUmcs1MtH5bISJL88BpxiFJURJETg94-kLx-ZsPZYA8yo9r0xPFf2ttQ1rVUvoCrtkedUbTLHCsv3Afl1jqfHLlI4LUyylC3LVfQ6PLEH1VvnLaHHiSckSu0Ula59wMNeueKilng?width=844&height=897&cropmode=none)
+
+![Alt text](https://wfk6ka.ch.files.1drv.com/y4mnN2rxkvLHeRcwObMpQBdbYH2AW_fNGbRRSqWDKpka_dw0EuMqTRSd9hmfKHVmCVKX8lpm-4j3nsrjU1PjQ-YSKcFK-xfL8RbsmnJD6NuM8RrCG-I8_8n4RmoDLoqqHorv3grMglqPLEr8nLKdw0ps20gDNlv7HzZSOYPyZXAwp1-zzxZ-aulgFyyUsIiDb7eQZnExHo71wYT3BIpNrIBug?width=843&height=898&cropmode=none)
+
+![Alt text](https://wfk4ka.ch.files.1drv.com/y4mgIznZDemugpSDkBVfJqB6ESEFhPRDstyfkbBzNMQUiFjwtV8_1l1yWvxs60LCASe5vU6EJB24vR5P4fqpfyKakPPC89wSbolz2URDYDkQZwjcTvtrATnbQY_aK5bIriHS3-PGXFm4zU_ClzLxRvO4Xl-i45qEueJfYsEei9EhjbRIiXXVmQAZtMxPloFT_7V1egyAmo8bC7rWXVVL1rMYg?width=838&height=906&cropmode=none)
+
+![Alt text](https://wfk3ka.ch.files.1drv.com/y4myPFPwYjaGz8gikDt8cFOthmvmGqmwlzxK294KJJQaUsdaV9L72i6WvrF09sWFtarzi7RrxcHuKk7ZcywKHYjz7BsxcTSbH-StH42yAWplM9gFFBr8xzvOtlmgSQ2QLPzYiPUOboCl-KHKlbpZ7_CzvvWbNmAGjmSkJwQvggZrWk3rF_9sUHVWEAoQhwxb8XcfoQVhf8s_iPp92SJRoffwA?width=778&height=883&cropmode=none)
+
+![Alt text](https://wfk5ka.ch.files.1drv.com/y4mDugl6Zue8TF5nejQYQglfegzlt7bI6DbE29L6yJcKfYrwgsjFPLYJBohkCoNIEj5_11QHkn5bbHIPhYK3gLnHjlfP2ZoRSrtdv7s8DSxQ6xJnlB-BwG036ePi5kE7i1gHuLWJqYDqNfgtNyxze6syYOlOeqCzOrPPUG8ZRgPACxyBvW6Y6H4JtvqmtVXIsnKmLTUa3cRm_pRamCsGVN9yg?width=900&height=902&cropmode=none)
+
+![Alt text](https://wfk7ka.ch.files.1drv.com/y4mvuk21gw4jzKEanpOo3Hro_stX_lOqMsMgnuuXUVAkOp59y22snGbVVXYLuDI6DNSrgljK1AkxzAwdO_Xo0A3mWtPlh-IzEkqU8Tdjxr-FwYuLWd5JAeHaBO_1AVSKfB3wwapug5jyRv9OSe6uszDWnLJSUej_Y5G0wSYBO0vqO82GBK1Q2yPbsxV0XJEXgRcYsPH5VBeR_ekEnORBHf76A?width=883&height=939&cropmode=none)
+
