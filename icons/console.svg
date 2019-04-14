@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><path fill="#0090D2" d="M0 40h320v240H0z"/><path stroke="#fff" fill="#0090D2" stroke-width="20" d="M35 80l95 70-95 80"/><path stroke="#fff" fill="#0090D2" stroke-width="15" d="M130 230h160"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
+  <path fill="#0090D2" d="M0 40h320v240H0z"/>
+
+<g transform="translate(5, -12)">
+  <path
+   stroke="#fff"
+   fill="#0090D2"
+   stroke-width="25"
+   d="M35 80 l95 70 -95 80"
+  />
+</g>
+
+  <path stroke="#fff" fill="#0090D2" stroke-width="25" d="M150 230 h130"/>
+</svg>
