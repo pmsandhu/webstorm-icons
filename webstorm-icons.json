@@ -1,1046 +1,1049 @@
 {
-    "iconDefinitions": {
-        "apache": {
-            "iconPath": "./icons/webstorm-icons/apache.svg"
-        },
-        "api-blueprint": {
-            "iconPath": "./icons/webstorm-icons/api-blueprint.svg"
-        },
-        "appveyor": {
-            "iconPath": "./icons/webstorm-icons/appveyor.svg"
-        },
-        "archlinux-box": {
-            "iconPath": "./icons/webstorm-icons/archlinux-box.svg"
-        },
-        "archlinux": {
-            "iconPath": "./icons/webstorm-icons/archlinux.svg"
-        },
-        "babel": {
-            "iconPath": "./icons/webstorm-icons/babel.svg"
-        },
-        "binary": {
-            "iconPath": "./icons/webstorm-icons/binary.svg"
-        },
-        "bolt": {
-            "iconPath": "./icons/webstorm-icons/bolt.svg"
-        },
-        "bower.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/bower.folder.expanded.svg"
-        },
-        "bower.folder": {
-            "iconPath": "./icons/webstorm-icons/bower.folder.svg"
-        },
-        "bower": {
-            "iconPath": "./icons/webstorm-icons/bower.svg"
-        },
-        "box": {
-            "iconPath": "./icons/webstorm-icons/box.svg"
-        },
-        "build.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/build.folder.expanded.svg"
-        },
-        "build.folder": {
-            "iconPath": "./icons/webstorm-icons/build.folder.svg"
-        },
-        "build": {
-            "iconPath": "./icons/webstorm-icons/build.svg"
-        },
-        "c": {
-            "iconPath": "./icons/webstorm-icons/c.svg"
-        },
-        "camelia": {
-            "iconPath": "./icons/webstorm-icons/camelia.svg"
-        },
-        "circleci": {
-            "iconPath": "./icons/webstorm-icons/circleci.svg"
-        },
-        "clojure": {
-            "iconPath": "./icons/webstorm-icons/clojure.svg"
-        },
-        "cmake": {
-            "iconPath": "./icons/webstorm-icons/cmake.svg"
-        },
-        "codecov": {
-            "iconPath": "./icons/webstorm-icons/codecov.svg"
-        },
-        "coffeescript": {
-            "iconPath": "./icons/webstorm-icons/coffeescript.svg"
-        },
-        "config": {
-            "iconPath": "./icons/webstorm-icons/config.svg"
-        },
-        "console": {
-            "iconPath": "./icons/webstorm-icons/console.svg"
-        },
+  "iconDefinitions": {
+    "apache": {
+      "iconPath": "./icons/apache.svg"
+    },
+    "api-blueprint": {
+      "iconPath": "./icons/api-blueprint.svg"
+    },
+    "appveyor": {
+      "iconPath": "./icons/appveyor.svg"
+    },
+    "archlinux-box": {
+      "iconPath": "./icons/archlinux-box.svg"
+    },
+    "archlinux": {
+      "iconPath": "./icons/archlinux.svg"
+    },
+    "babel": {
+      "iconPath": "./icons/babel.svg"
+    },
+    "binary": {
+      "iconPath": "./icons/binary.svg"
+    },
+    "bolt": {
+      "iconPath": "./icons/bolt.svg"
+    },
+    "bower.folder.expanded": {
+      "iconPath": "./icons/bower.folder.expanded.svg"
+    },
+    "bower.folder": {
+      "iconPath": "./icons/bower.folder.svg"
+    },
+    "bower": {
+      "iconPath": "./icons/bower.svg"
+    },
+    "box": {
+      "iconPath": "./icons/box.svg"
+    },
+    "build.folder.expanded": {
+      "iconPath": "./icons/build.folder.expanded.svg"
+    },
+    "build.folder": {
+      "iconPath": "./icons/build.folder.svg"
+    },
+    "build": {
+      "iconPath": "./icons/build.svg"
+    },
+    "c": {
+      "iconPath": "./icons/c.svg"
+    },
+    "camelia": {
+      "iconPath": "./icons/camelia.svg"
+    },
+    "circleci": {
+      "iconPath": "./icons/circleci.svg"
+    },
+    "clojure": {
+      "iconPath": "./icons/clojure.svg"
+    },
+    "cmake": {
+      "iconPath": "./icons/cmake.svg"
+    },
+    "codecov": {
+      "iconPath": "./icons/codecov.svg"
+    },
+    "coffeescript": {
+      "iconPath": "./icons/coffeescript.svg"
+    },
+    "config": {
+      "iconPath": "./icons/config.svg"
+    },
+    "console": {
+      "iconPath": "./icons/console.svg"
+    },
 
-        "cpp": {
-            "iconPath": "./icons/webstorm-icons/cpp.svg"
-        },
-        "crystal-embedded": {
-            "iconPath": "./icons/webstorm-icons/crystal-embedded.svg"
-        },
-        "crystal": {
-            "iconPath": "./icons/webstorm-icons/crystal.svg"
-        },
-        "csharp": {
-            "iconPath": "./icons/webstorm-icons/csharp.svg"
-        },
-        "css-map": {
-            "iconPath": "./icons/webstorm-icons/css-map.svg"
-        },
-        "css": {
-            "iconPath": "./icons/webstorm-icons/css.svg"
-        },
-        "csscomb": {
-            "iconPath": "./icons/webstorm-icons/csscomb.svg"
-        },
-        "csv": {
-            "iconPath": "./icons/webstorm-icons/csv.svg"
-        },
-        "dart": {
-            "iconPath": "./icons/webstorm-icons/dart.svg"
-        },
-        "database": {
-            "iconPath": "./icons/webstorm-icons/database.svg"
-        },
-        "debian-box": {
-            "iconPath": "./icons/webstorm-icons/debian-box.svg"
-        },
-        "diff": {
-            "iconPath": "./icons/webstorm-icons/diff.svg"
-        },
-        "disc": {
-            "iconPath": "./icons/webstorm-icons/disc.svg"
-        },
-        "docker": {
-            "iconPath": "./icons/webstorm-icons/docker.svg"
-        },
-        "editorconfig": {
-            "iconPath": "./icons/webstorm-icons/editorconfig.svg"
-        },
-        "elixir": {
-            "iconPath": "./icons/webstorm-icons/elixir.svg"
-        },
-        "elm": {
-            "iconPath": "./icons/webstorm-icons/elm.svg"
-        },
-        "ensime": {
-            "iconPath": "./icons/webstorm-icons/ensime.svg"
-        },
-        "erlang": {
-            "iconPath": "./icons/webstorm-icons/erlang.svg"
-        },
-        "eslint": {
-            "iconPath": "./icons/webstorm-icons/eslint.svg"
-        },
-        "favicon": {
-            "iconPath": "./icons/webstorm-icons/favicon.svg"
-        },
-        "file": {
-            "iconPath": "./icons/webstorm-icons/file.svg"
-        },
-        "firebase": {
-            "iconPath": "./icons/webstorm-icons/firebase.svg"
-        },
-        "flash": {
-            "iconPath": "./icons/webstorm-icons/flash.svg"
-        },
-        "folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/folder.expanded.svg"
-        },
-        "folder.root.expanded": {
-            "iconPath": "./icons/webstorm-icons/folder.root.expanded.svg"
-        },
-        "folder.root": {
-            "iconPath": "./icons/webstorm-icons/folder.root.svg"
-        },
-        "folder": {
-            "iconPath": "./icons/webstorm-icons/folder.svg"
-        },
-        "fsharp": {
-            "iconPath": "./icons/webstorm-icons/fsharp.svg"
-        },
-        "fusebox": {
-            "iconPath": "./icons/webstorm-icons/fusebox.svg"
-        },
-        "gamemaker": {
-            "iconPath": "./icons/webstorm-icons/gamemaker.svg"
-        },
-        "gamemaker2": {
-            "iconPath": "./icons/webstorm-icons/gamemaker2.svg"
-        },
-        "git.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/git.folder.expanded.svg"
-        },
-        "git.folder": {
-            "iconPath": "./icons/webstorm-icons/git.folder.svg"
-        },
-        "git": {
-            "iconPath": "./icons/webstorm-icons/git.svg"
-        },
-        "gitlab": {
-            "iconPath": "./icons/webstorm-icons/gitlab.svg"
-        },
-        "gnome": {
-            "iconPath": "./icons/webstorm-icons/gnome.svg"
-        },
-        "go": {
-            "iconPath": "./icons/webstorm-icons/go.svg"
-        },
-        "godot": {
-            "iconPath": "./icons/webstorm-icons/godot.svg"
-        },
-        "gradle": {
-            "iconPath": "./icons/webstorm-icons/gradle.svg"
-        },
-        "graphql-config": {
-            "iconPath": "./icons/webstorm-icons/graphql-config.svg"
-        },
-        "graphql": {
-            "iconPath": "./icons/webstorm-icons/graphql.svg"
-        },
-        "groovy": {
-            "iconPath": "./icons/webstorm-icons/groovy.svg"
-        },
-        "grunt": {
-            "iconPath": "./icons/webstorm-icons/grunt.svg"
-        },
-        "gulp": {
-            "iconPath": "./icons/webstorm-icons/gulp.svg"
-        },
-        "haml": {
-            "iconPath": "./icons/webstorm-icons/haml.svg"
-        },
-        "handlebars": {
-            "iconPath": "./icons/webstorm-icons/handlebars.svg"
-        },
-        "haskell": {
-            "iconPath": "./icons/webstorm-icons/haskell.svg"
-        },
-        "haxe-hxml": {
-            "iconPath": "./icons/webstorm-icons/haxe-hxml.svg"
-        },
-        "haxe": {
-            "iconPath": "./icons/webstorm-icons/haxe.svg"
-        },
-        "html": {
-            "iconPath": "./icons/webstorm-icons/html.svg"
-        },
-        "idris-build": {
-            "iconPath": "./icons/webstorm-icons/idris-build.svg"
-        },
-        "idris-lib": {
-            "iconPath": "./icons/webstorm-icons/idris-lib.svg"
-        },
-        "idris": {
-            "iconPath": "./icons/webstorm-icons/idris.svg"
-        },
-        "image": {
-            "iconPath": "./icons/webstorm-icons/image.svg"
-        },
-        "ionic": {
-            "iconPath": "./icons/webstorm-icons/ionic.svg"
-        },
-        "java": {
-            "iconPath": "./icons/webstorm-icons/java.svg"
-        },
-        "javascript-embedded": {
-            "iconPath": "./icons/webstorm-icons/javascript-embedded.svg"
-        },
-        "javascript-lint": {
-            "iconPath": "./icons/webstorm-icons/javascript-lint.svg"
-        },
-        "javascript-map": {
-            "iconPath": "./icons/webstorm-icons/javascript-map.svg"
-        },
-        "javascript-test": {
-            "iconPath": "./icons/webstorm-icons/javascript-test.svg"
-        },
-        "javascript": {
-            "iconPath": "./icons/webstorm-icons/javascript.svg"
-        },
-        "json": {
-            "iconPath": "./icons/webstorm-icons/json.svg"
-        },
-        "julia": {
-            "iconPath": "./icons/webstorm-icons/julia.svg"
-        },
-        "karma": {
-            "iconPath": "./icons/webstorm-icons/karma.svg"
-        },
-        "kotlin": {
-            "iconPath": "./icons/webstorm-icons/kotlin.svg"
-        },
-        "less": {
-            "iconPath": "./icons/webstorm-icons/less.svg"
-        },
-        "lib": {
-            "iconPath": "./icons/webstorm-icons/lib.svg"
-        },
-        "libreoffice-base": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-base.svg"
-        },
-        "libreoffice-calc": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-calc.svg"
-        },
-        "libreoffice-draw": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-draw.svg"
-        },
-        "libreoffice-impress": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-impress.svg"
-        },
-        "libreoffice-math": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-math.svg"
-        },
-        "libreoffice-writer": {
-            "iconPath": "./icons/webstorm-icons/libreoffice-writer.svg"
-        },
-        "licence": {
-            "iconPath": "./icons/webstorm-icons/licence.svg"
-        },
-        "liquid": {
-            "iconPath": "./icons/webstorm-icons/liquid.svg"
-        },
-        "lisp": {
-            "iconPath": "./icons/webstorm-icons/lisp.svg"
-        },
-        "locale-lib": {
-            "iconPath": "./icons/webstorm-icons/locale-lib.svg"
-        },
-        "locale.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/locale.folder.expanded.svg"
-        },
-        "locale.folder": {
-            "iconPath": "./icons/webstorm-icons/locale.folder.svg"
-        },
-        "locale": {
-            "iconPath": "./icons/webstorm-icons/locale.svg"
-        },
-        "lock": {
-            "iconPath": "./icons/webstorm-icons/lock.svg"
-        },
-        "lua": {
-            "iconPath": "./icons/webstorm-icons/lua.svg"
-        },
-        "markdown": {
-            "iconPath": "./icons/webstorm-icons/markdown.svg"
-        },
-        "marko": {
-            "iconPath": "./icons/webstorm-icons/marko.svg"
-        },
-        "meson": {
-            "iconPath": "./icons/webstorm-icons/meson.svg"
-        },
-        "mjml": {
-            "iconPath": "./icons/webstorm-icons/mjml.svg"
-        },
-        "msoffice-access": {
-            "iconPath": "./icons/webstorm-icons/msoffice-access.svg"
-        },
-        "msoffice-excel": {
-            "iconPath": "./icons/webstorm-icons/msoffice-excel.svg"
-        },
-        "msoffice-onenote": {
-            "iconPath": "./icons/webstorm-icons/msoffice-onenote.svg"
-        },
-        "msoffice-powerpoint": {
-            "iconPath": "./icons/webstorm-icons/msoffice-powerpoint.svg"
-        },
-        "msoffice-word": {
-            "iconPath": "./icons/webstorm-icons/msoffice-word.svg"
-        },
-        "nim-config": {
-            "iconPath": "./icons/webstorm-icons/nim-config.svg"
-        },
-        "nim": {
-            "iconPath": "./icons/webstorm-icons/nim.svg"
-        },
-        "nodejs.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/nodejs.folder.expanded.svg"
-        },
-        "nodejs.folder": {
-            "iconPath": "./icons/webstorm-icons/nodejs.folder.svg"
-        },
-        "nodejs": {
-            "iconPath": "./icons/webstorm-icons/nodejs.svg"
-        },
-        "npm": {
-            "iconPath": "./icons/webstorm-icons/npm.svg"
-        },
-        "nsis": {
-            "iconPath": "./icons/webstorm-icons/nsis.svg"
-        },
-        "nuget-box": {
-            "iconPath": "./icons/webstorm-icons/nuget-box.svg"
-        },
-        "nuget.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/nuget.folder.expanded.svg"
-        },
-        "nuget.folder": {
-            "iconPath": "./icons/webstorm-icons/nuget.folder.svg"
-        },
-        "nuget": {
-            "iconPath": "./icons/webstorm-icons/nuget.svg"
-        },
-        "nunjucks": {
-            "iconPath": "./icons/webstorm-icons/nunjucks.svg"
-        },
-        "objective-c": {
-            "iconPath": "./icons/webstorm-icons/objective-c.svg"
-        },
-        "ocaml": {
-            "iconPath": "./icons/webstorm-icons/ocaml.svg"
-        },
-        "paket.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/paket.folder.expanded.svg"
-        },
-        "paket.folder": {
-            "iconPath": "./icons/webstorm-icons/paket.folder.svg"
-        },
-        "paket": {
-            "iconPath": "./icons/webstorm-icons/paket.svg"
-        },
-        "pdf": {
-            "iconPath": "./icons/webstorm-icons/pdf.svg"
-        },
-        "php": {
-            "iconPath": "./icons/webstorm-icons/php.svg"
-        },
-        "point-cloud-library": {
-            "iconPath": "./icons/webstorm-icons/point-cloud-library.svg"
-        },
-        "polymer": {
-            "iconPath": "./icons/webstorm-icons/polymer.svg"
-        },
-        "postcss-config": {
-            "iconPath": "./icons/webstorm-icons/postcss-config.svg"
-        },
-        "postcss": {
-            "iconPath": "./icons/webstorm-icons/postcss.svg"
-        },
-        "powershell": {
-            "iconPath": "./icons/webstorm-icons/powershell.svg"
-        },
-        "protractor": {
-            "iconPath": "./icons/webstorm-icons/protractor.svg"
-        },
-        "pug": {
-            "iconPath": "./icons/webstorm-icons/pug.svg"
-        },
-        "puppet": {
-            "iconPath": "./icons/webstorm-icons/puppet.svg"
-        },
-        "python-lib": {
-            "iconPath": "./icons/webstorm-icons/python-lib.svg"
-        },
-        "python.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/python.folder.expanded.svg"
-        },
-        "python.folder": {
-            "iconPath": "./icons/webstorm-icons/python.folder.svg"
-        },
-        "python": {
-            "iconPath": "./icons/webstorm-icons/python.svg"
-        },
-        "r": {
-            "iconPath": "./icons/webstorm-icons/r.svg"
-        },
-        "razor": {
-            "iconPath": "./icons/webstorm-icons/razor.svg"
-        },
-        "react": {
-            "iconPath": "./icons/webstorm-icons/react.svg"
-        },
-        "registry": {
-            "iconPath": "./icons/webstorm-icons/registry.svg"
-        },
-        "rpm-box": {
-            "iconPath": "./icons/webstorm-icons/rpm-box.svg"
-        },
-        "ruby-build": {
-            "iconPath": "./icons/webstorm-icons/ruby-build.svg"
-        },
-        "ruby-embedded": {
-            "iconPath": "./icons/webstorm-icons/ruby-embedded.svg"
-        },
-        "ruby": {
-            "iconPath": "./icons/webstorm-icons/ruby.svg"
-        },
-        "rubygem": {
-            "iconPath": "./icons/webstorm-icons/rubygem.svg"
-        },
-        "rust-lib": {
-            "iconPath": "./icons/webstorm-icons/rust-lib.svg"
-        },
-        "rust": {
-            "iconPath": "./icons/webstorm-icons/rust.svg"
-        },
-        "salesforce-apex": {
-            "iconPath": "./icons/webstorm-icons/salesforce-apex.svg"
-        },
-        "salesforce-visualforce": {
-            "iconPath": "./icons/webstorm-icons/salesforce-visualforce.svg"
-        },
-        "sass": {
-            "iconPath": "./icons/webstorm-icons/sass.svg"
-        },
-        "scala": {
-            "iconPath": "./icons/webstorm-icons/scala.svg"
-        },
-        "scheme": {
-            "iconPath": "./icons/webstorm-icons/scheme.svg"
-        },
-        "sdl": {
-            "iconPath": "./icons/webstorm-icons/sdl.svg"
-        },
-        "sequalize": {
-            "iconPath": "./icons/webstorm-icons/sequalize.svg"
-        },
-        "simple-build-tool": {
-            "iconPath": "./icons/webstorm-icons/simple-build-tool.svg"
-        },
-        "solidity": {
-            "iconPath": "./icons/webstorm-icons/solidity.svg"
-        },
-        "sound": {
-            "iconPath": "./icons/webstorm-icons/sound.svg"
-        },
-        "source.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/source.folder.expanded.svg"
-        },
-        "source.folder": {
-            "iconPath": "./icons/webstorm-icons/source.folder.svg"
-        },
-        "stylelint": {
-            "iconPath": "./icons/webstorm-icons/stylelint.svg"
-        },
-        "stylus": {
-            "iconPath": "./icons/webstorm-icons/stylus.svg"
-        },
-        "svg": {
-            "iconPath": "./icons/webstorm-icons/svg.svg"
-        },
-        "swift": {
-            "iconPath": "./icons/webstorm-icons/swift.svg"
-        },
-        "terminal": {
-            "iconPath": "./icons/webstorm-icons/terminal.svg"
-        },
-        "test.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/test.folder.expanded.svg"
-        },
-        "test.folder": {
-            "iconPath": "./icons/webstorm-icons/test.folder.svg"
-        },
-        "text": {
-            "iconPath": "./icons/webstorm-icons/text.svg"
-        },
-        "toml": {
-            "iconPath": "./icons/webstorm-icons/toml.svg"
-        },
-        "trash": {
-            "iconPath": "./icons/webstorm-icons/trash.svg"
-        },
-        "travis": {
-            "iconPath": "./icons/webstorm-icons/travis.svg"
-        },
-        "twig": {
-            "iconPath": "./icons/webstorm-icons/twig.svg"
-        },
-        "typescript-config": {
-            "iconPath": "./icons/webstorm-icons/typescript.svg"
-        },
-        "typescript-lint": {
-            "iconPath": "./icons/webstorm-icons/typescript.svg"
-        },
-        "typescript-test": {
-            "iconPath": "./icons/webstorm-icons/typescript.svg"
-        },
-        "typescript.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/typescript.folder.expanded.svg"
-        },
-        "typescript.folder": {
-            "iconPath": "./icons/webstorm-icons/typescript.folder.svg"
-        },
-        "typescript": {
-            "iconPath": "./icons/webstorm-icons/typescript.svg"
-        },
-        "unity": {
-            "iconPath": "./icons/webstorm-icons/unity.svg"
-        },
-        "vagrant": {
-            "iconPath": "./icons/webstorm-icons/vagrant.svg"
-        },
-        "vibed": {
-            "iconPath": "./icons/webstorm-icons/vibed.svg"
-        },
-        "video": {
-            "iconPath": "./icons/webstorm-icons/video.svg"
-        },
-        "visual-basic": {
-            "iconPath": "./icons/webstorm-icons/visual-basic.svg"
-        },
-        "visual-studio.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/visual-studio.folder.expanded.svg"
-        },
-        "visual-studio.folder": {
-            "iconPath": "./icons/webstorm-icons/visual-studio.folder.svg"
-        },
-        "visual-studio": {
-            "iconPath": "./icons/webstorm-icons/visual-studio.svg"
-        },
-        "vscode-box": {
-            "iconPath": "./icons/webstorm-icons/vscode-box.svg"
-        },
-        "vscode.folder.expanded": {
-            "iconPath": "./icons/webstorm-icons/vscode.folder.expanded.svg"
-        },
-        "vscode.folder": {
-            "iconPath": "./icons/webstorm-icons/vscode.folder.svg"
-        },
-        "vscode": {
-            "iconPath": "./icons/webstorm-icons/vscode.svg"
-        },
-        "vue": {
-            "iconPath": "./icons/webstorm-icons/vue.svg"
-        },
-        "webpack": {
-            "iconPath": "./icons/webstorm-icons/webpack.svg"
-        },
-        "xml": {
-            "iconPath": "./icons/webstorm-icons/xml.svg"
-        },
-        "yaml": {
-            "iconPath": "./icons/webstorm-icons/yaml.svg"
-        },
-        "yarn": {
-            "iconPath": "./icons/webstorm-icons/yarn.svg"
-        }
+    "cpp": {
+      "iconPath": "./icons/cpp.svg"
     },
-    "rootFolder": "folder.root",
-    "rootFolderExpanded": "folder.root.expanded",
-    "folder": "folder",
-    "folderExpanded": "folder.expanded",
-    "file": "file",
-    "folderNames": {
-        ".dub": "d.folder",
-        ".git": "git.folder",
-        ".github": "git.folder",
-        ".nuget": "nuget.folder",
-        ".paket": "paket.folder",
-        ".vs": "visual-studio.folder",
-        ".vscode": "vscode.folder",
-        "__pycache__": "python.folder",
-        "bin": "build.folder",
-        "bower_components": "bower.folder",
-        "build": "build.folder",
-        "g11n": "locale.folder",
-        "i18n": "locale.folder",
-        "node_modules": "nodejs.folder",
-        "locale": "locale.folder",
-        "locales": "locale.folder",
-        "out": "build.folder",
-        "po": "locale.folder",
-        "source": "source.folder",
-        "spec": "test.folder",
-        "specs": "test.folder",
-        "src": "source.folder",
-        "test": "test.folder",
-        "tests": "test.folder",
-        "typings": "typescript.folder"
+    "crystal-embedded": {
+      "iconPath": "./icons/crystal-embedded.svg"
     },
-    "folderNamesExpanded": {
-        ".git": "git.folder.expanded",
-        ".github": "git.folder.expanded",
-        ".nuget": "nuget.folder.expanded",
-        ".paket": "paket.folder.expanded",
-        ".vs": "visual-studio.folder.expanded",
-        ".vscode": "vscode.folder.expanded",
-        "__pycache__": "python.folder.expanded",
-        "bin": "build.folder.expanded",
-        "bower_components": "bower.folder.expanded",
-        "build": "build.folder.expanded",
-        "g11n": "locale.folder.expanded",
-        "i18n": "locale.folder.expanded",
-        "node_modules": "nodejs.folder.expanded",
-        "locale": "locale.folder.expanded",
-        "locales": "locale.folder.expanded",
-        "out": "build.folder.expanded",
-        "po": "locale.folder.expanded",
-        "source": "source.folder.expanded",
-        "spec": "test.folder.expanded",
-        "specs": "test.folder.expanded",
-        "src": "source.folder.expanded",
-        "test": "test.folder.expanded",
-        "tests": "test.folder.expanded",
-        "typings": "typescript.folder.expanded"
+    "crystal": {
+      "iconPath": "./icons/crystal.svg"
     },
-    "fileNames": {
-        ".appveyor.yaml": "appveyor",
-        ".appveyor.yml": "appveyor",
-        ".babelrc": "babel",
-        ".bowerrc": "bower",
-        ".codecov.yml": "codecov",
-        ".csscomb.json": "csscomb",
-        ".editorconfig": "editorconfig",
-        ".eslintrc": "eslint",
-        ".eslintrc.js": "eslint",
-        ".eslintrc.json": "eslint",
-        ".eslintrc.yaml": "eslint",
-        ".eslintrc.yml": "eslint",
-        ".eslintignore": "eslint",
-        ".firebaserc": "firebase",
-        ".gitconfig": "git",
-        ".gitignore": "git",
-        ".gitlab-ci.yml": "gitlab",
-        ".gitmodules": "git",
-        ".gqlconfig": "graphql-config",
-        ".htaccess": "apache",
-        ".jshintignore": "javascript-lint",
-        ".jshintrc": "javascript-lint",
-        ".npmignore": "npm",
-        ".npmrc": "npm",
-        ".sequalizerc": "sequalize",
-        ".stylelintignore": "stylelint",
-        ".stylelintrc": "stylelint",
-        ".travis.yml": "travis",
-        ".vscodeignore": "vscode",
-        ".yarn-integrity": "yarn",
-        ".yarn-metadata.json": "yarn",
-        ".yarnclean": "yarn",
-        ".yarnignore": "yarn",
-        ".yarnrc": "yarn",
-        "appveyor.yaml": "appveyor",
-        "appveyor.yml": "appveyor",
-        "cakefile": "build",
-        "circle.yml": "circleci",
-        "cmakecache.txt": "cmake",
-        "cmakelists.txt": "cmake",
-        "codecov.yml": "codecov",
-
-        "docker-cloud.yml": "docker",
-        "docker-compose.yml": "docker",
-        "dub.json": "d-build",
-        "dub.sdl": "d-build",
-        "favicon.bmp": "favicon",
-        "favicon.gif": "favicon",
-        "favicon.ico": "favicon",
-        "favicon.jpg": "favicon",
-        "favicon.jpeg": "favicon",
-        "favicon.png": "favicon",
-        "favicon.svg": "favicon",
-        "favicon.tif": "favicon",
-        "favicon.tiff": "favicon",
-        "favicon.webp": "favicon",
-        "fuse.js": "fusebox",
-        "gemfile": "rubygem",
-        "gruntfile.coffee": "grunt",
-        "gruntfile.js": "grunt",
-        "gruntfile.ts": "grunt",
-        "gulpfile.coffee": "gulp",
-        "gulpfile.js": "gulp",
-        "gulpfile.ts": "gulp",
-        "ionic.config.json": "ionic",
-        "ionic.project": "ionic",
-        "karma.conf.js": "karma",
-        "licence": "licence",
-        "licence.md": "licence",
-        "licence.txt": "licence",
-        "license": "licence",
-        "license.md": "licence",
-        "license.txt": "licence",
-        "meson.build": "meson",
-        "nim.cfg": "nim-config",
-        "package.json": "nodejs",
-        "package.pins": "swift",
-        "package-lock.json": "nodejs",
-        "paket.dependencies": "paket",
-        "paket.local": "paket",
-        "paket.lock": "paket",
-        "paket.references": "paket",
-        "paket.template": "paket",
-        "pkgbuild": "archlinux",
-        "postcss.config.js": "postcss-config",
-        "protractor.conf.js": "protractor",
-        "rakefile": "ruby-build",
-        "readme": "md",
-        "readme.md": "md",
-        "readme.txt": "md",
-        "stylelint.config.js": "stylelint",
-        "tsconfig.app.json": "typescript-config",
-        "tsconfig.e2e.json": "typescript-config",
-        "tsconfig.json": "typescript-config",
-        "tsconfig.spec.json": "typescript-config",
-        "tslint.json": "typescript-lint",
-        "vagrantfile": "vagrant",
-        "webpack.config.babel.js": "webpack",
-        "webpack.config.base.babel.js": "webpack",
-        "webpack.config.coffee": "webpack",
-        "webpack.config.common.babel.js": "webpack",
-        "webpack.config.common.js": "webpack",
-        "webpack.config.dev.babel.js": "webpack",
-        "webpack.config.dev.js": "webpack",
-        "webpack.config.js": "webpack",
-        "webpack.config.prod.babel.js": "webpack",
-        "webpack.config.prod.js": "webpack",
-        "webpack.config.production.babel.js": "webpack",
-        "webpack.config.production.js": "webpack",
-        "webpack.config.staging.babel.js": "webpack",
-        "webpack.config.staging.js": "webpack",
-        "webpack.config.test.js": "webpack",
-        "webpack.config.ts": "webpack",
-        "yarn.lock": "yarn"
+    "csharp": {
+      "iconPath": "./icons/csharp.svg"
     },
-    "fileExtensions": {
-        "7z": "box",
-        "a": "lib",
-        "accdb": "msoffice-access",
-        "avi": "video",
-        "back": "trash",
-        "bak": "trash",
-        "bin": "lib",
-        "bmp": "image",
-        "bolt": "bolt",
-        "bz2": "box",
-        "bzip2": "box",
-        "cabal": "haskell",
-        "cmake": "cmake",
-        "cr": "crystal",
-        "css.map": "css-map",
-        "csv": "csv",
-        "dart": "dart",
-        "db": "database",
-        "deb": "debian-box",
-        "diff": "diff",
-        "dll": "lib",
-        "dmg": "disc",
-        "doc": "msoffice-word",
-        "dockerfile": "docker",
-        "dockerignore": "docker",
-        "docx": "msoffice-word",
-        "dt": "vibed",
-        "ecr": "crystal-embedded",
-        "ejs": "javascript-embedded",
-        "elm": "elm",
-        "ensime": "ensime",
-        "exe": "lib",
-        "flv": "video",
-        "gd": "godot",
-        "gif": "image",
-        "glade": "xml",
-        "gradle": "gradle",
-        "gz": "box",
-        "haml": "haml",
-        "haskell": "haskell",
-        "hx": "haxe",
-        "hxml": "haxe-hxml",
-        "ibc": "idris-lib",
-        "ico": "image",
-        "idr": "idris",
-        "ipkg": "idris-build",
-        "iso": "disc",
-        "jar": "box",
-        "jl": "julia",
-        "jpeg": "image",
-        "jpg": "image",
-        "js.map": "javascript-map",
-        "lib": "lib",
-        "lidr": "idris",
-        "liquid": "liquid",
-        "lock": "lock",
-        "log": "text",
-        "lz": "box",
-        "lzma": "box",
-        "lzo": "box",
-        "mak": "build",
-        "marko": "marko",
-        "md": "markdown",
-        "mdb": "msoffice-access",
-        "mid": "sound",
-        "mjml": "mjml",
-        "mkv": "video",
-        "mo": "locale-lib",
-        "mov": "video",
-        "mp3": "sound",
-        "mp4": "video",
-        "n": "lib",
-        "ndll": "lib",
-        "nim.cfg": "nim-config",
-        "ninja": "build",
-        "nupkg": "nuget-box",
-        "nuspec": "nuget",
-        "o": "lib",
-        "odb": "libreoffice-base",
-        "odf": "libreoffice-math",
-        "odg": "libreoffice-draw",
-        "odp": "libreoffice-impress",
-        "ods": "libreoffice-calc",
-        "odt": "libreoffice-writer",
-        "ogg": "video",
-        "old": "trash",
-        "one": "msoffice-onenote",
-        "patch": "diff",
-        "pcd": "point-cloud-library",
-        "pdb": "database",
-        "pdf": "pdf",
-        "pkg": "box",
-        "pkg.tar.xz": "archlinux-box",
-        "png": "image",
-        "po": "locale",
-        "pot": "locale",
-        "ppt": "msoffice-powerpoint",
-        "pptx": "msoffice-powerpoint",
-        "psmdcp": "nuget",
-        "pyc": "python-lib",
-        "pyd": "python-lib",
-        "pyo": "python-lib",
-        "ra": "sound",
-        "ram": "sound",
-        "rar": "box",
-        "reg": "registry",
-        "rlib": "rust-lib",
-        "rm": "sound",
-        "rpm": "rpm-box",
-        "sbt": "simple-build-tool",
-        "scssm": "sass",
-        "sdl": "sdl",
-        "slang": "crystal-embedded",
-        "sln": "visual-studio",
-        "so": "lib",
-        "sol": "solidity",
-        "spec.js": "javascript-test",
-        "spec.jsx": "javascript-test",
-        "spec.ts": "typescript-test",
-        "spec.tsx": "typescript-test",
-        "svg": "svg",
-        "swf": "flash",
-        "tar": "box",
-        "test.js": "javascript-test",
-        "test.jsx": "javascript-test",
-        "test.ts": "typescript-test",
-        "test.tsx": "typescript-test",
-        "tif": "image",
-        "tiff": "image",
-        "tmLanguage": "xml",
-        "toml": "toml",
-        "twig": "twig",
-        "txt": "text",
-        "vagrantfile": "vagrant",
-        "vsix": "vscode-box",
-        "vue": "vue",
-        "wav": "sound",
-        "webp": "image",
-        "wma": "sound",
-        "wmv": "video",
-        "xls": "msoffice-excel",
-        "xlsx": "msoffice-excel",
-        "xz": "box",
-        "zip": "box"
+    "css-map": {
+      "iconPath": "./icons/css-map.svg"
     },
-    "languageIds": {
-        "apex": "salesforce-apex",
-        "apiblueprint": "api-blueprint",
-        "asm": "binary",
-        "bat": "console",
-        "bolt": "bolt",
-        "c": "cpp",
-        "cabal": "haskell",
-        "clojure": "clojure",
-        "cmake": "cmake",
-        "coffeescript": "coffeescript",
-        "cpp": "cpp",
-        "crystal": "crystal",
-        "csharp": "csharp",
-        "css": "css",
-        "dart": "dart",
-        "diet": "vibed",
-        "dockerfile": "docker",
-        "ecr": "crystal-embedded",
-        "ejs": "javascript-embedded",
-        "elixir": "elixir",
-        "elm": "elm",
-        "erb": "ruby-embedded",
-        "erlang": "erlang",
-        "fsharp": "fsharp",
-        "gdscript": "godot",
-        "gml-gm81": "gamemaker",
-        "gml-gms": "gamemaker",
-        "gml-gms2": "gamemaker2",
-        "gml-gmx": "config",
-        "gml-yyp": "config",
-        "go": "go",
-        "graphql": "graphql",
-        "groovy": "groovy",
-        "haml": "haml",
-        "handlebars": "handlebars",
-        "haskell": "haskell",
-        "haxe": "haxe",
-        "html": "html",
-        "hxml": "haxe-hxml",
-        "ini": "config",
-        "idris": "idris",
-        "ipkg": "idris-build",
-        "jade": "pug",
-        "java": "java",
-        "javascript": "javascript",
-        "javascriptreact": "react",
-        "json": "json",
-        "julia": "julia",
-        "kotlin": "kotlin",
-        "less": "less",
-        "lidris": "idris",
-        "liquid": "liquid",
-        "lisp": "lisp",
-        "lua": "lua",
-        "makefile": "build",
-        "markdown": "markdown",
-        "marko": "marko",
-        "meson": "meson",
-        "mjml": "mjml",
-        "nim": "nim",
-        "nimble": "nim",
-        "nsis": "nsis",
-        "nunjucks": "nunjucks",
-        "objective-c": "objective-c",
-        "objective-cpp": "objective-c",
-        "ocaml": "ocaml",
-        "pcd": "point-cloud-library",
-        "perl": "camelia",
-        "perl6": "camelia",
-        "php": "php",
-        "plsql": "database",
-        "polymer": "polymer",
-        "postcss": "postcss",
-        "powershell": "powershell",
-        "properties": "config",
-        "puppet": "puppet",
-        "python": "python",
-        "r": "r",
-        "razor": "razor",
-        "ruby": "ruby",
-        "rust": "rust",
-        "sass": "sass",
-        "sbt": "simple-build-tool",
-        "scala": "scala",
-        "scss": "sass",
-        "scheme": "scheme",
-        "sdl": "sdl",
-        "shaderlab": "unity",
-        "shellscript": "terminal",
-        "slang": "crystal-embedded",
-        "solidity": "solidity",
-        "sql": "database",
-        "stylus": "stylus",
-        "swift": "swift",
-        "toml": "toml",
-        "twig": "twig",
-        "typescript": "typescript",
-        "typescriptreact": "react",
-        "vala": "gnome",
-        "vb": "visual-basic",
-        "visualforce": "salesforce-visualforce",
-        "vue": "vue",
-        "xml": "xml",
-        "yaml": "yaml"
+    "css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "csscomb": {
+      "iconPath": "./icons/csscomb.svg"
+    },
+    "csv": {
+      "iconPath": "./icons/csv.svg"
+    },
+    "dart": {
+      "iconPath": "./icons/dart.svg"
+    },
+    "database": {
+      "iconPath": "./icons/database.svg"
+    },
+    "debian-box": {
+      "iconPath": "./icons/debian-box.svg"
+    },
+    "diff": {
+      "iconPath": "./icons/diff.svg"
+    },
+    "disc": {
+      "iconPath": "./icons/disc.svg"
+    },
+    "docker": {
+      "iconPath": "./icons/docker.svg"
+    },
+    "editorconfig": {
+      "iconPath": "./icons/editorconfig.svg"
+    },
+    "elixir": {
+      "iconPath": "./icons/elixir.svg"
+    },
+    "elm": {
+      "iconPath": "./icons/elm.svg"
+    },
+    "ensime": {
+      "iconPath": "./icons/ensime.svg"
+    },
+    "erlang": {
+      "iconPath": "./icons/erlang.svg"
+    },
+    "eslint": {
+      "iconPath": "./icons/eslint.svg"
+    },
+    "favicon": {
+      "iconPath": "./icons/favicon.svg"
+    },
+    "file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "firebase": {
+      "iconPath": "./icons/firebase.svg"
+    },
+    "flash": {
+      "iconPath": "./icons/flash.svg"
+    },
+    "folder.expanded": {
+      "iconPath": "./icons/folder.expanded.svg"
+    },
+    "folder.root.expanded": {
+      "iconPath": "./icons/folder.root.expanded.svg"
+    },
+    "folder.root": {
+      "iconPath": "./icons/folder.root.svg"
+    },
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "fsharp": {
+      "iconPath": "./icons/fsharp.svg"
+    },
+    "fusebox": {
+      "iconPath": "./icons/fusebox.svg"
+    },
+    "gamemaker": {
+      "iconPath": "./icons/gamemaker.svg"
+    },
+    "gamemaker2": {
+      "iconPath": "./icons/gamemaker2.svg"
+    },
+    "git.folder.expanded": {
+      "iconPath": "./icons/git.folder.expanded.svg"
+    },
+    "git.folder": {
+      "iconPath": "./icons/git.folder.svg"
+    },
+    "git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "gitlab": {
+      "iconPath": "./icons/gitlab.svg"
+    },
+    "gnome": {
+      "iconPath": "./icons/gnome.svg"
+    },
+    "go": {
+      "iconPath": "./icons/go.svg"
+    },
+    "godot": {
+      "iconPath": "./icons/godot.svg"
+    },
+    "gradle": {
+      "iconPath": "./icons/gradle.svg"
+    },
+    "graphql-config": {
+      "iconPath": "./icons/graphql-config.svg"
+    },
+    "graphql": {
+      "iconPath": "./icons/graphql.svg"
+    },
+    "groovy": {
+      "iconPath": "./icons/groovy.svg"
+    },
+    "grunt": {
+      "iconPath": "./icons/grunt.svg"
+    },
+    "gulp": {
+      "iconPath": "./icons/gulp.svg"
+    },
+    "haml": {
+      "iconPath": "./icons/haml.svg"
+    },
+    "handlebars": {
+      "iconPath": "./icons/handlebars.svg"
+    },
+    "haskell": {
+      "iconPath": "./icons/haskell.svg"
+    },
+    "haxe-hxml": {
+      "iconPath": "./icons/haxe-hxml.svg"
+    },
+    "haxe": {
+      "iconPath": "./icons/haxe.svg"
+    },
+    "html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "idris-build": {
+      "iconPath": "./icons/idris-build.svg"
+    },
+    "idris-lib": {
+      "iconPath": "./icons/idris-lib.svg"
+    },
+    "idris": {
+      "iconPath": "./icons/idris.svg"
+    },
+    "image": {
+      "iconPath": "./icons/image.svg"
+    },
+    "ionic": {
+      "iconPath": "./icons/ionic.svg"
+    },
+    "java": {
+      "iconPath": "./icons/java.svg"
+    },
+    "javascript-embedded": {
+      "iconPath": "./icons/javascript-embedded.svg"
+    },
+    "javascript-lint": {
+      "iconPath": "./icons/javascript-lint.svg"
+    },
+    "javascript-map": {
+      "iconPath": "./icons/javascript-map.svg"
+    },
+    "javascript-test": {
+      "iconPath": "./icons/javascript-test.svg"
+    },
+    "javascript": {
+      "iconPath": "./icons/javascript.svg"
+    },
+    "json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "jsx": {
+      "iconPath": "./icons/jsx.svg"
+    },
+    "julia": {
+      "iconPath": "./icons/julia.svg"
+    },
+    "karma": {
+      "iconPath": "./icons/karma.svg"
+    },
+    "kotlin": {
+      "iconPath": "./icons/kotlin.svg"
+    },
+    "less": {
+      "iconPath": "./icons/less.svg"
+    },
+    "lib": {
+      "iconPath": "./icons/lib.svg"
+    },
+    "libreoffice-base": {
+      "iconPath": "./icons/libreoffice-base.svg"
+    },
+    "libreoffice-calc": {
+      "iconPath": "./icons/libreoffice-calc.svg"
+    },
+    "libreoffice-draw": {
+      "iconPath": "./icons/libreoffice-draw.svg"
+    },
+    "libreoffice-impress": {
+      "iconPath": "./icons/libreoffice-impress.svg"
+    },
+    "libreoffice-math": {
+      "iconPath": "./icons/libreoffice-math.svg"
+    },
+    "libreoffice-writer": {
+      "iconPath": "./icons/libreoffice-writer.svg"
+    },
+    "licence": {
+      "iconPath": "./icons/licence.svg"
+    },
+    "liquid": {
+      "iconPath": "./icons/liquid.svg"
+    },
+    "lisp": {
+      "iconPath": "./icons/lisp.svg"
+    },
+    "locale-lib": {
+      "iconPath": "./icons/locale-lib.svg"
+    },
+    "locale.folder.expanded": {
+      "iconPath": "./icons/locale.folder.expanded.svg"
+    },
+    "locale.folder": {
+      "iconPath": "./icons/locale.folder.svg"
+    },
+    "locale": {
+      "iconPath": "./icons/locale.svg"
+    },
+    "lock": {
+      "iconPath": "./icons/lock.svg"
+    },
+    "lua": {
+      "iconPath": "./icons/lua.svg"
+    },
+    "markdown": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "marko": {
+      "iconPath": "./icons/marko.svg"
+    },
+    "meson": {
+      "iconPath": "./icons/meson.svg"
+    },
+    "mjml": {
+      "iconPath": "./icons/mjml.svg"
+    },
+    "msoffice-access": {
+      "iconPath": "./icons/msoffice-access.svg"
+    },
+    "msoffice-excel": {
+      "iconPath": "./icons/msoffice-excel.svg"
+    },
+    "msoffice-onenote": {
+      "iconPath": "./icons/msoffice-onenote.svg"
+    },
+    "msoffice-powerpoint": {
+      "iconPath": "./icons/msoffice-powerpoint.svg"
+    },
+    "msoffice-word": {
+      "iconPath": "./icons/msoffice-word.svg"
+    },
+    "nim-config": {
+      "iconPath": "./icons/nim-config.svg"
+    },
+    "nim": {
+      "iconPath": "./icons/nim.svg"
+    },
+    "nodejs.folder.expanded": {
+      "iconPath": "./icons/nodejs.folder.expanded.svg"
+    },
+    "nodejs.folder": {
+      "iconPath": "./icons/nodejs.folder.svg"
+    },
+    "nodejs": {
+      "iconPath": "./icons/nodejs.svg"
+    },
+    "npm": {
+      "iconPath": "./icons/npm.svg"
+    },
+    "nsis": {
+      "iconPath": "./icons/nsis.svg"
+    },
+    "nuget-box": {
+      "iconPath": "./icons/nuget-box.svg"
+    },
+    "nuget.folder.expanded": {
+      "iconPath": "./icons/nuget.folder.expanded.svg"
+    },
+    "nuget.folder": {
+      "iconPath": "./icons/nuget.folder.svg"
+    },
+    "nuget": {
+      "iconPath": "./icons/nuget.svg"
+    },
+    "nunjucks": {
+      "iconPath": "./icons/nunjucks.svg"
+    },
+    "objective-c": {
+      "iconPath": "./icons/objective-c.svg"
+    },
+    "ocaml": {
+      "iconPath": "./icons/ocaml.svg"
+    },
+    "paket.folder.expanded": {
+      "iconPath": "./icons/paket.folder.expanded.svg"
+    },
+    "paket.folder": {
+      "iconPath": "./icons/paket.folder.svg"
+    },
+    "paket": {
+      "iconPath": "./icons/paket.svg"
+    },
+    "pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
+    "php": {
+      "iconPath": "./icons/php.svg"
+    },
+    "point-cloud-library": {
+      "iconPath": "./icons/point-cloud-library.svg"
+    },
+    "polymer": {
+      "iconPath": "./icons/polymer.svg"
+    },
+    "postcss-config": {
+      "iconPath": "./icons/css.svg"
+    },
+    "postcss": {
+      "iconPath": "./icons/css.svg"
+    },
+    "powershell": {
+      "iconPath": "./icons/powershell.svg"
+    },
+    "protractor": {
+      "iconPath": "./icons/protractor.svg"
+    },
+    "pug": {
+      "iconPath": "./icons/pug.svg"
+    },
+    "puppet": {
+      "iconPath": "./icons/puppet.svg"
+    },
+    "python-lib": {
+      "iconPath": "./icons/python-lib.svg"
+    },
+    "python.folder.expanded": {
+      "iconPath": "./icons/python.folder.expanded.svg"
+    },
+    "python.folder": {
+      "iconPath": "./icons/python.folder.svg"
+    },
+    "python": {
+      "iconPath": "./icons/python.svg"
+    },
+    "r": {
+      "iconPath": "./icons/r.svg"
+    },
+    "razor": {
+      "iconPath": "./icons/razor.svg"
+    },
+    "registry": {
+      "iconPath": "./icons/registry.svg"
+    },
+    "rpm-box": {
+      "iconPath": "./icons/rpm-box.svg"
+    },
+    "ruby-build": {
+      "iconPath": "./icons/ruby-build.svg"
+    },
+    "ruby-embedded": {
+      "iconPath": "./icons/ruby-embedded.svg"
+    },
+    "ruby": {
+      "iconPath": "./icons/ruby.svg"
+    },
+    "rubygem": {
+      "iconPath": "./icons/rubygem.svg"
+    },
+    "rust-lib": {
+      "iconPath": "./icons/rust-lib.svg"
+    },
+    "rust": {
+      "iconPath": "./icons/rust.svg"
+    },
+    "salesforce-apex": {
+      "iconPath": "./icons/salesforce-apex.svg"
+    },
+    "salesforce-visualforce": {
+      "iconPath": "./icons/salesforce-visualforce.svg"
+    },
+    "sass": {
+      "iconPath": "./icons/sass.svg"
+    },
+    "scala": {
+      "iconPath": "./icons/scala.svg"
+    },
+    "scheme": {
+      "iconPath": "./icons/scheme.svg"
+    },
+    "sdl": {
+      "iconPath": "./icons/sdl.svg"
+    },
+    "sequalize": {
+      "iconPath": "./icons/sequalize.svg"
+    },
+    "simple-build-tool": {
+      "iconPath": "./icons/simple-build-tool.svg"
+    },
+    "solidity": {
+      "iconPath": "./icons/solidity.svg"
+    },
+    "sound": {
+      "iconPath": "./icons/sound.svg"
+    },
+    "source.folder.expanded": {
+      "iconPath": "./icons/source.folder.expanded.svg"
+    },
+    "source.folder": {
+      "iconPath": "./icons/source.folder.svg"
+    },
+    "stylelint": {
+      "iconPath": "./icons/stylelint.svg"
+    },
+    "stylus": {
+      "iconPath": "./icons/stylus.svg"
+    },
+    "svg": {
+      "iconPath": "./icons/svg.svg"
+    },
+    "swift": {
+      "iconPath": "./icons/swift.svg"
+    },
+    "terminal": {
+      "iconPath": "./icons/terminal.svg"
+    },
+    "test.folder.expanded": {
+      "iconPath": "./icons/test.folder.expanded.svg"
+    },
+    "test.folder": {
+      "iconPath": "./icons/test.folder.svg"
+    },
+    "text": {
+      "iconPath": "./icons/text.svg"
+    },
+    "toml": {
+      "iconPath": "./icons/toml.svg"
+    },
+    "trash": {
+      "iconPath": "./icons/trash.svg"
+    },
+    "travis": {
+      "iconPath": "./icons/travis.svg"
+    },
+    "twig": {
+      "iconPath": "./icons/twig.svg"
+    },
+    "tsx": {
+      "iconPath": "./icons/tsx.svg"
+    },
+    "typescript-config": {
+      "iconPath": "./icons/typescript.svg"
+    },
+    "typescript-lint": {
+      "iconPath": "./icons/typescript.svg"
+    },
+    "typescript-test": {
+      "iconPath": "./icons/typescript.svg"
+    },
+    "typescript.folder.expanded": {
+      "iconPath": "./icons/typescript.folder.expanded.svg"
+    },
+    "typescript.folder": {
+      "iconPath": "./icons/typescript.folder.svg"
+    },
+    "typescript": {
+      "iconPath": "./icons/typescript.svg"
+    },
+    "unity": {
+      "iconPath": "./icons/unity.svg"
+    },
+    "vagrant": {
+      "iconPath": "./icons/vagrant.svg"
+    },
+    "vibed": {
+      "iconPath": "./icons/vibed.svg"
+    },
+    "video": {
+      "iconPath": "./icons/video.svg"
+    },
+    "visual-basic": {
+      "iconPath": "./icons/visual-basic.svg"
+    },
+    "visual-studio.folder.expanded": {
+      "iconPath": "./icons/visual-studio.folder.expanded.svg"
+    },
+    "visual-studio.folder": {
+      "iconPath": "./icons/visual-studio.folder.svg"
+    },
+    "visual-studio": {
+      "iconPath": "./icons/visual-studio.svg"
+    },
+    "vscode-box": {
+      "iconPath": "./icons/vscode-box.svg"
+    },
+    "vscode.folder.expanded": {
+      "iconPath": "./icons/vscode.folder.expanded.svg"
+    },
+    "vscode.folder": {
+      "iconPath": "./icons/vscode.folder.svg"
+    },
+    "vscode": {
+      "iconPath": "./icons/vscode.svg"
+    },
+    "vue": {
+      "iconPath": "./icons/vue.svg"
+    },
+    "webpack": {
+      "iconPath": "./icons/webpack.svg"
+    },
+    "xml": {
+      "iconPath": "./icons/xml.svg"
+    },
+    "yaml": {
+      "iconPath": "./icons/yaml.svg"
+    },
+    "yarn": {
+      "iconPath": "./icons/yarn.svg"
     }
+  },
+  "rootFolder": "folder.root",
+  "rootFolderExpanded": "folder.root.expanded",
+  "folder": "folder",
+  "folderExpanded": "folder.expanded",
+  "file": "file",
+  "folderNames": {
+    ".dub": "d.folder",
+    ".git": "git.folder",
+    ".github": "git.folder",
+    ".nuget": "nuget.folder",
+    ".paket": "paket.folder",
+    ".vs": "visual-studio.folder",
+    ".vscode": "vscode.folder",
+    "__pycache__": "python.folder",
+    "bin": "build.folder",
+    "bower_components": "bower.folder",
+    "build": "build.folder",
+    "g11n": "locale.folder",
+    "i18n": "locale.folder",
+    "node_modules": "nodejs.folder",
+    "locale": "locale.folder",
+    "locales": "locale.folder",
+    "out": "build.folder",
+    "po": "locale.folder",
+    "source": "source.folder",
+    "spec": "test.folder",
+    "specs": "test.folder",
+    "src": "source.folder",
+    "test": "test.folder",
+    "tests": "test.folder",
+    "typings": "typescript.folder"
+  },
+  "folderNamesExpanded": {
+    ".git": "git.folder.expanded",
+    ".github": "git.folder.expanded",
+    ".nuget": "nuget.folder.expanded",
+    ".paket": "paket.folder.expanded",
+    ".vs": "visual-studio.folder.expanded",
+    ".vscode": "vscode.folder.expanded",
+    "__pycache__": "python.folder.expanded",
+    "bin": "build.folder.expanded",
+    "bower_components": "bower.folder.expanded",
+    "build": "build.folder.expanded",
+    "g11n": "locale.folder.expanded",
+    "i18n": "locale.folder.expanded",
+    "node_modules": "nodejs.folder.expanded",
+    "locale": "locale.folder.expanded",
+    "locales": "locale.folder.expanded",
+    "out": "build.folder.expanded",
+    "po": "locale.folder.expanded",
+    "source": "source.folder.expanded",
+    "spec": "test.folder.expanded",
+    "specs": "test.folder.expanded",
+    "src": "source.folder.expanded",
+    "test": "test.folder.expanded",
+    "tests": "test.folder.expanded",
+    "typings": "typescript.folder.expanded"
+  },
+  "fileNames": {
+    ".appveyor.yaml": "appveyor",
+    ".appveyor.yml": "appveyor",
+    ".babelrc": "babel",
+    ".bowerrc": "bower",
+    ".codecov.yml": "codecov",
+    ".csscomb.json": "csscomb",
+    ".editorconfig": "editorconfig",
+    ".eslintrc": "eslint",
+    ".eslintrc.js": "eslint",
+    ".eslintrc.json": "eslint",
+    ".eslintrc.yaml": "eslint",
+    ".eslintrc.yml": "eslint",
+    ".eslintignore": "eslint",
+    ".firebaserc": "firebase",
+    ".gitconfig": "git",
+    ".gitignore": "git",
+    ".gitlab-ci.yml": "gitlab",
+    ".gitmodules": "git",
+    ".gqlconfig": "graphql-config",
+    ".htaccess": "apache",
+    ".jshintignore": "javascript-lint",
+    ".jshintrc": "javascript-lint",
+    ".npmignore": "npm",
+    ".npmrc": "npm",
+    ".sequalizerc": "sequalize",
+    ".stylelintignore": "stylelint",
+    ".stylelintrc": "stylelint",
+    ".travis.yml": "travis",
+    ".vscodeignore": "vscode",
+    ".yarn-integrity": "yarn",
+    ".yarn-metadata.json": "yarn",
+    ".yarnclean": "yarn",
+    ".yarnignore": "yarn",
+    ".yarnrc": "yarn",
+    "appveyor.yaml": "appveyor",
+    "appveyor.yml": "appveyor",
+    "cakefile": "build",
+    "circle.yml": "circleci",
+    "cmakecache.txt": "cmake",
+    "cmakelists.txt": "cmake",
+    "codecov.yml": "codecov",
+
+    "docker-cloud.yml": "docker",
+    "docker-compose.yml": "docker",
+    "dub.json": "d-build",
+    "dub.sdl": "d-build",
+    "favicon.bmp": "favicon",
+    "favicon.gif": "favicon",
+    "favicon.ico": "favicon",
+    "favicon.jpg": "favicon",
+    "favicon.jpeg": "favicon",
+    "favicon.png": "favicon",
+    "favicon.svg": "favicon",
+    "favicon.tif": "favicon",
+    "favicon.tiff": "favicon",
+    "favicon.webp": "favicon",
+    "fuse.js": "fusebox",
+    "gemfile": "rubygem",
+    "gruntfile.coffee": "grunt",
+    "gruntfile.js": "grunt",
+    "gruntfile.ts": "grunt",
+    "gulpfile.coffee": "gulp",
+    "gulpfile.js": "gulp",
+    "gulpfile.ts": "gulp",
+    "ionic.config.json": "ionic",
+    "ionic.project": "ionic",
+    "karma.conf.js": "karma",
+    "licence": "licence",
+    "licence.md": "licence",
+    "licence.txt": "licence",
+    "license": "licence",
+    "license.md": "licence",
+    "license.txt": "licence",
+    "meson.build": "meson",
+    "nim.cfg": "nim-config",
+    "package.json": "nodejs",
+    "package.pins": "swift",
+    "package-lock.json": "nodejs",
+    "paket.dependencies": "paket",
+    "paket.local": "paket",
+    "paket.lock": "paket",
+    "paket.references": "paket",
+    "paket.template": "paket",
+    "pkgbuild": "archlinux",
+    "postcss.config.js": "postcss-config",
+    "protractor.conf.js": "protractor",
+    "rakefile": "ruby-build",
+    "readme": "md",
+    "readme.md": "md",
+    "readme.txt": "md",
+    "stylelint.config.js": "stylelint",
+    "tsconfig.app.json": "typescript-config",
+    "tsconfig.e2e.json": "typescript-config",
+    "tsconfig.json": "typescript-config",
+    "tsconfig.spec.json": "typescript-config",
+    "tslint.json": "typescript-lint",
+    "vagrantfile": "vagrant",
+    "webpack.config.babel.js": "webpack",
+    "webpack.config.base.babel.js": "webpack",
+    "webpack.config.coffee": "webpack",
+    "webpack.config.common.babel.js": "webpack",
+    "webpack.config.common.js": "webpack",
+    "webpack.config.dev.babel.js": "webpack",
+    "webpack.config.dev.js": "webpack",
+    "webpack.config.js": "webpack",
+    "webpack.config.prod.babel.js": "webpack",
+    "webpack.config.prod.js": "webpack",
+    "webpack.config.production.babel.js": "webpack",
+    "webpack.config.production.js": "webpack",
+    "webpack.config.staging.babel.js": "webpack",
+    "webpack.config.staging.js": "webpack",
+    "webpack.config.test.js": "webpack",
+    "webpack.config.ts": "webpack",
+    "yarn.lock": "yarn"
+  },
+  "fileExtensions": {
+    "7z": "box",
+    "a": "lib",
+    "accdb": "msoffice-access",
+    "avi": "video",
+    "back": "trash",
+    "bak": "trash",
+    "bin": "lib",
+    "bmp": "image",
+    "bolt": "bolt",
+    "bz2": "box",
+    "bzip2": "box",
+    "cabal": "haskell",
+    "cmake": "cmake",
+    "cr": "crystal",
+    "css.map": "css-map",
+    "csv": "csv",
+    "dart": "dart",
+    "db": "database",
+    "deb": "debian-box",
+    "diff": "diff",
+    "dll": "lib",
+    "dmg": "disc",
+    "doc": "msoffice-word",
+    "dockerfile": "docker",
+    "dockerignore": "docker",
+    "docx": "msoffice-word",
+    "dt": "vibed",
+    "ecr": "crystal-embedded",
+    "ejs": "javascript-embedded",
+    "elm": "elm",
+    "ensime": "ensime",
+    "exe": "lib",
+    "flv": "video",
+    "gd": "godot",
+    "gif": "image",
+    "glade": "xml",
+    "gradle": "gradle",
+    "gz": "box",
+    "haml": "haml",
+    "haskell": "haskell",
+    "hx": "haxe",
+    "hxml": "haxe-hxml",
+    "ibc": "idris-lib",
+    "ico": "image",
+    "idr": "idris",
+    "ipkg": "idris-build",
+    "iso": "disc",
+    "jar": "box",
+    "jl": "julia",
+    "jpeg": "image",
+    "jpg": "image",
+    "js.map": "javascript-map",
+    "lib": "lib",
+    "lidr": "idris",
+    "liquid": "liquid",
+    "lock": "lock",
+    "log": "text",
+    "lz": "box",
+    "lzma": "box",
+    "lzo": "box",
+    "mak": "build",
+    "marko": "marko",
+    "md": "markdown",
+    "mdb": "msoffice-access",
+    "mid": "sound",
+    "mjml": "mjml",
+    "mkv": "video",
+    "mo": "locale-lib",
+    "mov": "video",
+    "mp3": "sound",
+    "mp4": "video",
+    "n": "lib",
+    "ndll": "lib",
+    "nim.cfg": "nim-config",
+    "ninja": "build",
+    "nupkg": "nuget-box",
+    "nuspec": "nuget",
+    "o": "lib",
+    "odb": "libreoffice-base",
+    "odf": "libreoffice-math",
+    "odg": "libreoffice-draw",
+    "odp": "libreoffice-impress",
+    "ods": "libreoffice-calc",
+    "odt": "libreoffice-writer",
+    "ogg": "video",
+    "old": "trash",
+    "one": "msoffice-onenote",
+    "patch": "diff",
+    "pcd": "point-cloud-library",
+    "pdb": "database",
+    "pdf": "pdf",
+    "pkg": "box",
+    "pkg.tar.xz": "archlinux-box",
+    "png": "image",
+    "po": "locale",
+    "pot": "locale",
+    "ppt": "msoffice-powerpoint",
+    "pptx": "msoffice-powerpoint",
+    "psmdcp": "nuget",
+    "pyc": "python-lib",
+    "pyd": "python-lib",
+    "pyo": "python-lib",
+    "ra": "sound",
+    "ram": "sound",
+    "rar": "box",
+    "reg": "registry",
+    "rlib": "rust-lib",
+    "rm": "sound",
+    "rpm": "rpm-box",
+    "sbt": "simple-build-tool",
+    "scssm": "sass",
+    "sdl": "sdl",
+    "slang": "crystal-embedded",
+    "sln": "visual-studio",
+    "so": "lib",
+    "sol": "solidity",
+    "spec.js": "javascript-test",
+    "spec.jsx": "jsx",
+    "spec.ts": "typescript-test",
+    "spec.tsx": "tsx",
+    "svg": "svg",
+    "swf": "flash",
+    "tar": "box",
+    "test.js": "javascript-test",
+    "test.jsx": "jsx",
+    "test.ts": "typescript-test",
+    "test.tsx": "tsx",
+    "tif": "image",
+    "tiff": "image",
+    "tmLanguage": "xml",
+    "toml": "toml",
+    "twig": "twig",
+    "txt": "text",
+    "vagrantfile": "vagrant",
+    "vsix": "vscode-box",
+    "vue": "vue",
+    "wav": "sound",
+    "webp": "image",
+    "wma": "sound",
+    "wmv": "video",
+    "xls": "msoffice-excel",
+    "xlsx": "msoffice-excel",
+    "xz": "box",
+    "zip": "box"
+  },
+  "languageIds": {
+    "apex": "salesforce-apex",
+    "apiblueprint": "api-blueprint",
+    "asm": "binary",
+    "bat": "console",
+    "bolt": "bolt",
+    "c": "cpp",
+    "cabal": "haskell",
+    "clojure": "clojure",
+    "cmake": "cmake",
+    "coffeescript": "coffeescript",
+    "cpp": "cpp",
+    "crystal": "crystal",
+    "csharp": "csharp",
+    "css": "css",
+    "dart": "dart",
+    "diet": "vibed",
+    "dockerfile": "docker",
+    "ecr": "crystal-embedded",
+    "ejs": "javascript-embedded",
+    "elixir": "elixir",
+    "elm": "elm",
+    "erb": "ruby-embedded",
+    "erlang": "erlang",
+    "fsharp": "fsharp",
+    "gdscript": "godot",
+    "gml-gm81": "gamemaker",
+    "gml-gms": "gamemaker",
+    "gml-gms2": "gamemaker2",
+    "gml-gmx": "config",
+    "gml-yyp": "config",
+    "go": "go",
+    "graphql": "graphql",
+    "groovy": "groovy",
+    "haml": "haml",
+    "handlebars": "handlebars",
+    "haskell": "haskell",
+    "haxe": "haxe",
+    "html": "html",
+    "hxml": "haxe-hxml",
+    "ini": "config",
+    "idris": "idris",
+    "ipkg": "idris-build",
+    "jade": "pug",
+    "java": "java",
+    "javascript": "javascript",
+    "javascriptreact": "jsx",
+    "json": "json",
+    "julia": "julia",
+    "kotlin": "kotlin",
+    "less": "less",
+    "lidris": "idris",
+    "liquid": "liquid",
+    "lisp": "lisp",
+    "lua": "lua",
+    "makefile": "build",
+    "markdown": "markdown",
+    "marko": "marko",
+    "meson": "meson",
+    "mjml": "mjml",
+    "nim": "nim",
+    "nimble": "nim",
+    "nsis": "nsis",
+    "nunjucks": "nunjucks",
+    "objective-c": "objective-c",
+    "objective-cpp": "objective-c",
+    "ocaml": "ocaml",
+    "pcd": "point-cloud-library",
+    "perl": "camelia",
+    "perl6": "camelia",
+    "php": "php",
+    "plsql": "database",
+    "polymer": "polymer",
+    "postcss": "postcss",
+    "powershell": "powershell",
+    "properties": "config",
+    "puppet": "puppet",
+    "python": "python",
+    "r": "r",
+    "razor": "razor",
+    "ruby": "ruby",
+    "rust": "rust",
+    "sass": "sass",
+    "sbt": "simple-build-tool",
+    "scala": "scala",
+    "scss": "sass",
+    "scheme": "scheme",
+    "sdl": "sdl",
+    "shaderlab": "unity",
+    "shellscript": "terminal",
+    "slang": "crystal-embedded",
+    "solidity": "solidity",
+    "sql": "database",
+    "stylus": "stylus",
+    "swift": "swift",
+    "toml": "toml",
+    "twig": "twig",
+    "typescript": "typescript",
+    "typescriptreact": "tsx",
+    "vala": "gnome",
+    "vb": "visual-basic",
+    "visualforce": "salesforce-visualforce",
+    "vue": "vue",
+    "xml": "xml",
+    "yaml": "yaml"
+  }
 }
