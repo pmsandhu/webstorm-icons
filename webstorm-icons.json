@@ -416,7 +416,7 @@
       "iconPath": "./icons/polymer.svg"
     },
     "postcss-config": {
-      "iconPath": "./icons/css.svg"
+      "iconPath": "./icons/javascript.svg"
     },
     "postcss": {
       "iconPath": "./icons/css.svg"
