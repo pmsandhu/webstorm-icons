@@ -1,0 +1,4 @@
+*.vsix
+.vsixmanifest
+.gitignore
+.git/**
